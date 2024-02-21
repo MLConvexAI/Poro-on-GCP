@@ -1,5 +1,5 @@
 # Quantized Poro34B on VertexAI GCP
-This repository includes instructions and files to run the quantized Poro-34B-GPTQ LLM model on GCP (with GPU).
+This repository includes instructions and files to run the quantized Poro-34B-GPTQ LLM model on GCP (with GPU). The Poro model card is here https://huggingface.co/LumiOpen/Poro-34B and the quantized model in here https://huggingface.co/TheBloke/Poro-34B-GPTQ.
 
 ### VertexAI and Instance setup
 
@@ -60,7 +60,11 @@ Next navigate to Poro-on-GCP directory and open the Poro-34B-GPTQ-on-GCP noteboo
 
 When the notebook is open, select the newly created "Poro" kernel using File -> Change Kernel -> Select Kernel Poro.
 
-Now we are ready to execture the cells and test the Poro LLM model.
+Now we are ready to execure the cells and test the Poro LLM model.
+
+![Näyttökuva 2024-2-21 kello 15 54 04](https://github.com/MLConvexAI/Poro-on-GCP/assets/49635441/61f42fae-6b1d-4b93-aa99-e2e08abde9bf)
+
+
 
 
 
